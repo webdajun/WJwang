@@ -1,0 +1,65 @@
+
+.big{min-width: 640px;}
+.inner{width:90%;margin:0 auto;}
+
+
+/*------header------*/
+.header{height:256px;background:url(../images/app-hb_01.png) repeat-x #eee;text-align:center;}
+.header h2{display: inline-block;width:560px; height:100px;background:url(../images/app-log_03.png) no-repeat center center;}
+.header h1{color:#fff;font-weight: 500;height:80px;line-height: 80px;}
+.header p{font-size: 24px;color:#a6a6a6;}
+/*------main------*/
+.main{padding: 40px 0px;}
+.maTop{padding-bottom: 30px;}
+.maTop .top{padding: 30px 0;border-bottom:1px solid #c6c6c6;}
+.maTop p{display:inline-block;min-height: 50px;width:70%;border-left:1px solid #da5e5e;margin-left: 50px;position: relative;font-size: 24px;padding-left: 15px;color:#da5e5e;}
+.maTop p span{position: absolute;top:17px;left:-40px;color:#da5e5e;font-size: 24px;}
+
+.mainUl1 li{height:59px;line-height: 59px;border-bottom: 1px solid #c6c6c6;padding-left: 60px;font-size: 24px;position: relative;cursor:pointer;}
+.mainUl1 li .yuan{width:30px;height:30px;border-radius: 15px;border:1px  solid #898989;position:absolute;top:15px;left:10px;}
+
+.mainUl1 li .yuanBc{border:1px  solid #da5e5e;}
+.mainUl1 li .yuan span{display:block;width:15px;height:15px;border-radius:8px;background:#da5e5e;position:absolute;top:7px;left:8px;}
+/*----------------*/
+.maCenter{border-top:10px solid #eee;border-bottom:10px solid #eee;padding-bottom:30px;}
+.maCenter .top{padding: 30px 0;border-bottom:1px solid #c6c6c6;}
+.maCenter p{display:inline-block;min-height: 50px;width:70%;border-left:1px solid #da5e5e;margin-left: 50px;position: relative;font-size: 24px;padding-left: 15px;}
+.maCenter p .maQ2{position: absolute;top:17px;left:-40px;color:#da5e5e;font-size: 24px;}
+.maCenter p .duoxuan{color:#da5e5e;}
+
+.maCenter li{height:59px;line-height: 59px;border-bottom: 1px solid #c6c6c6;padding-left: 60px;font-size: 24px;position: relative;cursor:pointer;}
+.maCenter li .fang{width:30px;height:30px;border:1px solid #898989;position:absolute;top:15px;left:10px;}
+.maCenter li .gouG{background:url(../images/Appgou_03.png) no-repeat 2px 4px;border:1px solid #da5e5e;}
+.mainUl2 .maCenBc{background: #f1f1f1;}
+/*<!------------------------------------>*/
+.maBot .top{padding: 30px 0;}
+.maBot p{display:inline-block;min-height: 50px;width:70%;border-left:1px solid #da5e5e;margin-left: 50px;position: relative;font-size: 24px;padding-left: 15px;line-height:50px;}
+.maBot p .maQ3{position: absolute;top:0px;left:-40px;color:#da5e5e;font-size: 24px;}
+
+.maBot textarea{resize : none;width:100%;height:140px;padding:20px;font-size:24px;color:#d4d4d4;}
+/*------footer------*/
+.footer{height:205px;background: #eeeeee;text-align:center;}
+.footer .inner{position:relative;}
+.footer .sp1{display:inline-block;height:94px;line-height: 94px;background:rgba(0,0,0,0.44);width:100%;font-size:20px;color:#fff;position:absolute;top:-54px;left:0;display:none;}
+
+.footer .sp2{display: inline-block;width:100%;height:70px;line-height: 70px;background: #da5e5e;font-size: 18px;color:#fff;cursor:pointer;margin-top:40px;}
+.footer .sp2 i{margin: 0 20px;}
+.footer p{height:90px;line-height: 90px;font-size: 18px;color:#bebebe;}
+.footer p a{float:right;color:#bebebe;font-size: 16px;}
+.footer p a:hover{color:red;}
+/*---------------------------------timuApp-5-2.html--------------------------------------------------*/
+.header2{height:175px;background:url(../images/app-hb_01.png) repeat-x #eee;text-align:center;}
+.header2 h2{display: inline-block;width:560px; height:100px;background:url(../images/app-log_03.png) no-repeat center center;}
+.header2 h1{color:#fff;font-weight: 500;height:80px;line-height: 80px;}
+/*--------------------main-----------------------*/
+.main2 .inner{padding: 200px 0 250px 0; position: relative;}
+.main2 .inner p{width:100%;height:220px;line-height: 220px; position: absolute;top: 50%;left:50%;transform:translateX(-50%);background: url("../images/APP5-2mainBg_03.png") no-repeat center center;font-size: 28px;color: #8f8f8f;text-align: center;}
+/*------footer------*/
+.footer2{height:205px;text-align:center;position: relative;}
+.footer2 .inner{position: absolute;top:80%;}
+.footer2 p{height:90px;line-height: 90px;font-size: 18px;color:#bebebe;}
+.footer2 p a{float:right;color:#bebebe;font-size: 16px;}
+.footer2 p a:hover{color:red;}
+
+
+

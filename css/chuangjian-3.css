@@ -1,0 +1,71 @@
+.inner{width:960px;margin: 0 auto;}
+/*---------------------------chuangjian-3-----------------------------------------*/
+.chuangjian-3 .big{min-width: 960px;}
+.chuangjian-3 header{height:70px;background: #484848;position: relative;}
+.chuangjian-3 header:after{content:" ";display:block;height:0;clear:both;}
+.chuangjian-3 .return{display:block;width:147px;height:70px; background:url(../images/changjian-3-fanhui_02.png) no-repeat 30px 0px #515151;}
+.chuangjian-3 .CJnav{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);height:70px;width:567px;}
+.chuangjian-3 .CJnav li{float:left;width:126px;padding-left: 46px;height:70px;line-height: 70px;position:relative;}
+.chuangjian-3 .CJnav li:nth-child(1){background:url(../images/CJ33Png.png) no-repeat -16px -229px ;}
+.chuangjian-3 .CJnav li:nth-child(2){background:url(../images/CJ33Png.png) no-repeat -193px -229px ;}
+.chuangjian-3 .CJnav li:nth-child(3){background:url(../images/CJ33Png.png) no-repeat -360px -229px ;}
+.chuangjian-3 .CJnav li a{font-size: 14px;color:#eeeeee;}
+.chuangjian-3 .CJnav li:hover a{color:#fff;}
+/**/
+.chuangjian-3 .cheng{display: block;background:url(../images/CJ-3-nav_03.png) no-repeat;width: 188px;height:90px;position:absolute;top:-13px;left:-25px;z-index:-1;}
+/**/
+.chuangjian-3 section{width:567px;margin: 0 auto;padding-top: 20px;position: relative;}
+.chuangjian-3 section h3{position: absolute;top:245px;left:85px;width:266px;height:53px;line-height: 53px;background:rgba(39,39,39,0.80);text-align: center;color:#fff;border-radius:4px;display:none;font-weight:normal;}
+
+.chuangjian-3 section h2{margin: 20px 0;}
+.chuangjian-3 .biaotInp{width:473px;height:33px;border:1px solid #d4d4d4;}
+.chuangjian-3 .sortUl{width:398px;height:98px;border:1px solid #d4d4d4;border-right:none;}
+.chuangjian-3 .sortUl li{float:left; width:98px;height:98px; border-right:1px solid #d4d4d4;}
+/*--------------------------------------------*/
+.chuangjian-3 .sortUl li:nth-child(1){background:url(../images/Creat_Question_icon.png) no-repeat -1px 0px;}
+.chuangjian-3 .sortUl li:nth-child(2){background:url(../images/Creat_Question_icon.png) no-repeat -102px 0px;}
+.chuangjian-3 .sortUl li:nth-child(3){background:url(../images/Creat_Question_icon.png) no-repeat -199px 0px;}
+.chuangjian-3 .sortUl li:nth-child(4){background:url(../images/Creat_Question_icon.png) no-repeat -299px 0px;}
+/*-----------------*/
+.chuangjian-3 .sortUl li:hover:nth-child(1){background:url(../images/Creat_Question_icon.png) no-repeat -1px -100px;}
+.chuangjian-3 .sortUl li:hover:nth-child(2){background:url(../images/Creat_Question_icon.png) no-repeat -102px -100px;}
+.chuangjian-3 .sortUl li:hover:nth-child(3){background:url(../images/Creat_Question_icon.png) no-repeat -199px -100px;}
+.chuangjian-3 .sortUl li:hover:nth-child(4){background:url(../images/Creat_Question_icon.png) no-repeat -299px -100px;}
+/*------------------------------*/
+.chuangjian-3 section .sortUl .liA{background:url(../images/Creat_Question_icon.png) no-repeat -1px -100px;}
+.chuangjian-3 section .sortUl .liB{background:url(../images/Creat_Question_icon.png) no-repeat -102px -100px;}
+.chuangjian-3 section .sortUl .liC{background:url(../images/Creat_Question_icon.png) no-repeat -199px -100px;}
+.chuangjian-3 section .sortUl .liD{background:url(../images/Creat_Question_icon.png) no-repeat -299px -100px;}
+
+/*--------------------------------*/
+.chuangjian-3 .but{margin-top: 70px;width:195px;height:40px;background: #ff5224;color:#fff;font-size: 16px;border:none;}
+
+/*---------------------------*/
+.chuangjian-3 .aa1{height:65px;background: #f3f3f3;}
+.chuangjian-3 footer{height:300px;background: #f3f3f3;margin-top: 50px;}
+/*---------------------3-3-------------------------------------------------------------*/
+#WJ3_2body{background: #f3f3f3;}
+.Wj3_2Main .mainTop{height:100px;padding-top: 46px;text-align:center;}
+.Wj3_2Main .mainTop p{display: inline-block; width:631px;}
+.Wj3_2Main .mainTop input{width:557px; height:40px;border-radius:4px 0 0 4px; float: left;padding-left: 10px;font-size: 16px;}
+.Wj3_2Main .mainTop button{width:64px;height:40px;background:url("../images/WJ2-2-FDJ_03.png") no-repeat center center #ff6e48;border:none; border-radius:0 4px 4px 0;  float: left;}
+.Wj3_2Main .mainTop .minTopUl{width:330px; height:42px;margin: 0 auto;}
+.Wj3_2Main .mainTop .minTopUl li{ float: left;margin: 0 11px;height:42px;line-height: 42px;font-size: 14px;color:#aaa;}
+
+.Wj3_2Main .mainBot{height:700px;}
+.Wj3_2Main .mainBot .inLeft{width:150px; height:700px;background: #fff;margin-right: 10px;text-align:center;}
+.Wj3_2Main .mainBot .inLeft h2{height:44px;line-height: 44px;background: #ff5224;color:#fff;font-weight:normal;}
+.Wj3_2Main .mainBot .inLeft ul{padding: 15px;}
+.Wj3_2Main .mainBot .inLeft ul li{height:67px;line-height: 67px;font-size: 16px;color:#343434;}
+
+.Wj3_2Main .mainBot .inRight{width:800px; height:700px;background: #fff;position: relative;}
+.Wj3_2Main .mainBot .inRight ul{padding:  0 10px 0 10px;}
+.Wj3_2Main .mainBot .inRight ul li{height:80px;border-bottom: 1px solid #cacaca;padding-left: 20px;padding-top: 30px;}
+.Wj3_2Main .mainBot .inRight ul li h3{height:40px;line-height: 40px;color:#5c5c5c;}
+.Wj3_2Main .mainBot .inRight ul li p{height:34px;line-height: 34px;color:#858585;}
+.Wj3_2Main .mainBot .inRight .paging{position: absolute;left:50%;bottom:35px;transform:translateX(-50%);color:#bfbfbf;font-size: 14px;}
+.Wj3_2Main .mainBot .inRight .paging span{margin: 0 8px;}
+
+
+
+

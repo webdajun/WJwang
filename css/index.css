@@ -1,0 +1,87 @@
+/**/
+
+html body{width:100%;height:100%;background:url(../images/bc_url.jpg) no-repeat;}
+
+/*------------beader----------------------*/
+.header:after{content:" ";display:block;height:0;clear:both;}
+.header{height:53px;background:rgba(0,0,0,0.20);padding-top:30px;}
+
+.header .inner{position:relative;}
+.header a{color:#cdcfd5;}
+.log{float:left;margin-top:-24px;}
+.navUl{float:left;width:42%;position:absolute;top:50%;left:50%;transform:translateX(-50%);}
+.navUl li{float:left;font-size:20px;height:33px;line-height:33px;color:#cdcfd5;width:33%; text-align:center;}
+.navUl li:hover a{color:red;}
+.header p{float:right;font-size:14px;height:33px;line-height:33px;}
+.header p span{color:#80899d;margin:0 12px;}
+.header p a:hover{color:red;}
+/*--------main--------------------*/
+.main .inner{text-align:center;padding-top:200px;}
+.main .inner h3{margin:70px 0;font-weight:normal;}
+.main .inner h3 a{display:inline-block;width:190px;height:44px;line-height:44px;border:1px solid #fff;border-radius:5px;font-size:20px;color:#fff;transition:all 1s;}
+.main .inner h3 a:hover{width:210px;background:rgba(255,242,242,0.59);color:#AB272B;}
+.main .inner p{font-size:14px;margin:100px 0;}
+.main .inner p span{color:#ffd323;}
+/*--------------footer----------------*/
+.footer{padding:15px 0;background:rgba(0,0,0,0.10);}
+.footer .inner{text-align:center;color:#9c868f;}
+.footer .inner p{line-height:22px;}
+.footer .inner p a{color:#9c868f;}
+/*---------------------.modal---------------------------------------*/
+
+
+/*------------------登陆---------------------------------------*/
+.popup{width:260px;height:484px;border:1px solid #adb5ca;border-radius:12px;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);z-index:20;display:none;}
+.shanchu{position:absolute;top:0;right:10px;color:#c3c8d8;font-size:30px;z-index:10;}
+
+.popTop{padding:33px 0 27px 0;border-bottom:1px solid #c3c8d8;}
+
+.popCenter{padding:18px;color:#e3c2c9;}
+.p1,.p2{border-bottom:1px solid #c3c8d8;display:inline-block;padding-left:42px;height:31px;line-height:31px;margin-top:45px;width:180px;}
+.inp1{background-color:transparent;border:none;outline:none;}
+
+.p1{background:url(../images/pop-a_03.png) no-repeat 5px center;}
+.p2{background:url(../images/pop-a_06.png) no-repeat 5px center;}
+.p3{padding-left:14px;margin-top:15px;}
+.p3 a{margin-left:100px;color:#c7b2b5;}
+
+.popBot{text-align:center;margin-top:40px;padding:0 19px;}
+.popBot h3{width:221px;height:28px;line-height:28px;border:1px solid #fff;color:#fff;border-radius:5px;}
+.popBot h3:hover{background:rgba(255,242,242,0.59);color:#AB272B;}
+.popBot p{color:#e3c2c9;margin-top:10px;}
+.popBot p a{color:#ff5224;}
+
+/*------------注册--------------------------------------*/
+.popRegister{width:260px;height:484px;border:1px solid #adb5ca;border-radius:12px;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);color:#aba4ae;z-index:20;display:none;}
+.zhu_popTop{padding:15px 0 35px 0;border-bottom:1px solid #c3c8d8;position:relative;}
+.zhuc{position:absolute;top:66px;left:37px;}
+.topUl{margin-top:25px;}
+.topUl li{float:left;text-align:center;width:130px;height:28px;line-height:28px;font-size:18px;color:#d6c6c9;cursor:pointer;position:relative;}
+.ditiao1{width:100%;height:2px;background:#ff5224;position:absolute;left:0;bottom:-8px;/*display:none;*/}
+.ditiao2{width:100%;height:2px;background:#ff5224;position:absolute;left:0;bottom:-8px;display:none;}
+/**/
+.topUl .pop2Color{color:#ff5224;}
+/**/
+.topUl li:hover .ditiao{display:block;}
+/**/
+.pp1,.pp2,.pp3{border-bottom:1px solid #c3c8d8;display:inline-block;padding-left:42px;height:31px;line-height:31px;margin-top:15px;width:180px;}
+.pp4{border-bottom:1px solid #c3c8d8;padding:10px 0;}
+.pp4 .inp4{width:100px;margin-top:20px;background-color:transparent;border:none;outline:none;}
+.pp4 span{display:inline-block;width:106px;height:25px;line-height:25px;border:1px solid #fff;text-align:center;border-radius:4px;margin-left:15px;}
+.pp4 span:hover{background:rgba(255,242,242,0.59);color:#AB272B;}
+
+.pp1{background:url(../images/pop-a_03.png) no-repeat 5px center;}
+.pp2{background:url(../images/pop-a_06.png) no-repeat 5px center;}
+.pp3{background:url(../images/pop-zhuc_06.png) no-repeat 5px center;}
+
+.popBot2{text-align:center;margin-top:10px;padding:0 19px;}
+.popBot2 h3{width:221px;height:28px;line-height:28px;border:1px solid #fff;color:#fff;border-radius:5px;}
+.popBot2 h3:hover{background:rgba(255,242,242,0.59);color:#AB272B;}
+.popBot2 p{color:#e3c2c9;margin-top:10px;}
+.popBot2 p a{color:#ff5224;margin-left:6px;}
+
+
+
+
+
+

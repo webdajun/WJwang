@@ -1,0 +1,54 @@
+/*-------------------*/
+html,body{height:100%;}
+/**/
+.wj4ChengBg{background:#ff5224;}
+
+.cheng{display: block;background:#ff5224;width: 76px;height:70px;position:absolute;top:-13px;left:-25px;z-index:-1;}
+/**/
+.mainRight{padding-left:75px;background:#f3f3f3;min-width: 1200px;height:100%;}
+.mainRight .maRtop{height:70px;border-bottom: 1px solid #e2e2e2;}
+.mainRight .maRtop h3{float:left;height:70px;line-height: 70px;padding-left: 15px;}
+.mainRight .maRtop .topRight{float:right;margin-right: 40px;}
+.mainRight .maRtop .topRight p{display: block;float:left;text-align: right;margin-top: 8px;}
+.mainRight .maRtop .topRight p span{display: block;font-size: 24px;color:#fd673f;}
+.mainRight .maRtop .topRight a{display: inline-block;float:right;margin-left: 12px;width:90px;height:37px;border-radius: 4px;background: #fd673f;color:#fff;text-align: center;line-height: 37px;margin-top:15px;}
+.mainRight .maRtop .topRight a:hover{background: #ff2a00;}
+/*---------------------*/
+.mainRight .content{padding: 44px 0 0 100px;position: relative;height:100%;background:#f3f3f3;}
+.mainRight .content .contentLeft{float: left;}
+.mainRight .content .form .p1{margin-top: 10px;height:42px;line-height: 42px;font-size: 16px;}
+.mainRight .content .form input{width:553px;height:32px;border:1px solid #959595;float:left;}
+.mainRight .content .form button{width:88px;height:34px;border:1px solid #ff4d1e;color:#ff4d1e;font-size: 14px;}
+.mainRight .content .form .p2{float:left;}
+.mainRight .content .form .p3{display: inline-block;width:130px;height:34px;background: #ddd;float:left;margin-left: 5px;}
+.mainRight .content .form .p3 span{display: inline-block;width:40px;height:34px;margin-right: 3px;cursor: pointer;}
+.mainRight .content .form .p3 span:nth-child(1){background: url("../images/CJ33Png.png") no-repeat -129px -427px;}
+.mainRight .content .form .p3 span:nth-child(2){background: url("../images/CJ33Png.png") no-repeat -192px -426px;}
+.mainRight .content .form .p3 span:nth-child(3){background: url("../images/CJ33Png.png") no-repeat -263px -424px;}
+.mainRight .content .form .p3 span:nth-child(1):hover{background: url("../images/CJ33Png.png") no-repeat -129px -485px;}
+.mainRight .content .form .p3 span:nth-child(2):hover{background: url("../images/CJ33Png.png") no-repeat -192px -484px;}
+.mainRight .content .form .p3 span:nth-child(3):hover{background: url("../images/CJ33Png.png") no-repeat -263px -482px;}
+.mainRight .content .contentLeft .codeBig{margin-top: 90px;width:600px;}
+.mainRight .content .contentLeft .codeBig h3{height:36px;line-height: 36px;}
+.mainRight .content .codeBig .codeLeft{width:132px;height:155px;border:1px solid #959595;float:left;position: relative;background: #fff;padding:13px 13px 50px 13px;}
+.mainRight .content .codeBig .codeLeft span{display: block;width:146px; height:35px;background: #efefef;position: absolute;left:0;bottom: 0;padding-top: 15px;padding-left: 12px;}
+.mainRight .content .codeBig .codeRight{width:380px;height:200px;float: right;margin-left: 35px;position: relative;}
+.mainRight .content .codeBig .codeRight p{line-height: 24px;}
+.mainRight .content .codeBig .codeRight a{display: inline-block;width:88px;height:32px;line-height: 32px;text-align: center;border:1px solid #ff4d1e;color:#ff4d1e;position: absolute;top: 175px;right:20px;}
+.mainRight .content .codeBig .codeRight a:hover{background: #ff4d1e;color:#fff;}
+.mainRight .content .contentRight{width:300px;height:100%;background: #fff;border-left: 1px solid #d7d7d7;float:right;position: relative;}
+.mainRight .content .contentRight h3{height:65px;background: #e4e4e4;line-height: 65px;padding-left: 15px;}
+.mainRight .content .contentRight .RiBtn{width:174px;height:36px;border:1px solid #ff5224;color:#c3c3c3;background: #fff;border-radius: 3px;position:absolute;top:80%;left:50%;transform:translateX(-50%);font-size: 16px;color:#ff4d1e;}
+.mainRight .content .contentRight .RiBtn:hover{background: #ff4d1e;color:#fff;}
+
+.mainRight .content .contentRight .conRiBot{padding-left: 15px;}
+.mainRight .content .contentRight .conRiBot b{height:30px;line-height: 30px;font-size: 15px;}
+.mainRight .content .contentRight .conRiBot p{line-height: 35px;}
+.mainRight .content .contentRight .conRiBot p input{margin-right: 5px;}
+.mainRight .content .contentRight .conRiBot p .SZspan1{display: inline-block;min-width:43px;height: 15px;border:1px solid #f5844d;margin: 0 5px;}
+.mainRight .content .contentRight .conRiBot p .SZspan2{display: inline-block;width:58px;height:15px;border:1px solid #f5844d;margin: 0 5px;background:url(../images/CJ33Png.png) no-repeat -10px -725px;cursor:pointer;}
+
+
+
+
+
